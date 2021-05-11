@@ -7,4 +7,21 @@ entrada na pilha de execução, e alguns dados podem ser
 disponibilizados em um escopo global ou local, através de 
 parâmetros em um escopo global ou local.
 
+Recursividade tem um papel importante em programação 
+funcional, facilitando que evitemos estados mutáveis e 
+mantenhamos nosso programa mais decarativo, e menos 
+imperativos.
+
+Tail Call (Recursividade em cauda): Recursão em cauda é 
+uma recursão onde não há nenhuma linha de código após a 
+chamada do próprio método e, sendo assim, não há nenhum 
+tipo de processamento a ser feito após a chamada recursiva. 
+
+Obs: a JVM não suporta a recursão em cauda, ele lança um 
+estouro de pilha (StackOverFlow)
+
+Memoization: é uma tecnica de otimização que consiste no 
+cache do resultado de uma função, baseado nos parâmetros 
+de entrada. Com isso, nas seguintes execuções 
+conseguimos ter uma resposta mais rápida
 
