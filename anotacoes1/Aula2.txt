@@ -1,0 +1,25 @@
+Paradigma Funcional no Java 
+
+Conceitos fundamentais da programação funcional 
+
+Composição de funções: é criar uma nova função através da 
+composição de outras. Por exemplo, vamos criar uma 
+função que vai filtrar um array, filtrando somente os números 
+pares e multiplicando por dois: 
+
+Funções Puras: É chamada de pura quando invocada mais
+de uma vez e produz exatamente o mesmo resultado.
+
+Imutabilidade: Significa que uma vez que uma variável que 
+recebeu um valor, vai possuir esse valor para sempre, ou 
+quando criarmos um objeto ele não pode ser modificado.
+
+                Imperativo x Declarativo
+É muito comum aprender a programar de forma imperativa,
+onde mandamos alguém fazer algo. Busque o usuário 15 no 
+bando de dados. Valide esses informações do usuário. 
+
+Na programação funcional tentamos programar de forma 
+declarativa, onde declaramos o que desejamos, sem 
+explicar como será feito. Qual o usuário 15 ? Quais os erros 
+dessas informações.

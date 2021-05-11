@@ -1,0 +1,10 @@
+Recursividade
+Na recursividade, uma função chama a si mesma 
+repetidamente, até atigir uma condição parada.
+No caso do Java, um método chama a sim mesmo, passando 
+para si objetos primitivos. Cada chamada gera uma nova 
+entrada na pilha de execução, e alguns dados podem ser 
+disponibilizados em um escopo global ou local, através de 
+parâmetros em um escopo global ou local.
+
+

@@ -1,0 +1,15 @@
+Parte 1 - Paradigma Funcional no Java 
+
+Programação funcional é o processo de construir software 
+através de composição de funções puras, evitando 
+compartilhamento de estados, dados mutáveis e efeitos
+colaterais. É declarativa ao invés de imperátiva, essa é uma 
+definição de Eric Elliott.
+
+Paradigma imperátivo: E aquele que expressa o código 
+através de comandos ao computador, nele é possivel ter
+controle de estado dos objetos:
+
+Paradigma funcional: Damos uma regra, uma declaração 
+de como queremos que o programa se comporte
+
